@@ -6,5 +6,3 @@ This is a template design for the home/landing page of an online store. The desi
 ![WebPageImage1](https://github.com/MyNameIsAditya/AdityaKhannaPortfolio/blob/master/readme_images/Image1.png)
 ![WebPageImage1](https://github.com/MyNameIsAditya/AdityaKhannaPortfolio/blob/master/readme_images/Image2.png)
 ![WebPageImage1](https://github.com/MyNameIsAditya/AdityaKhannaPortfolio/blob/master/readme_images/Image3.png)
-![WebPageImage1](https://github.com/MyNameIsAditya/AdityaKhannaPortfolio/blob/master/readme_images/Image4.png)
-![WebPageImage1](https://github.com/MyNameIsAditya/AdityaKhannaPortfolio/blob/master/readme_images/Image5.png)
